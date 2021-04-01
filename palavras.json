@@ -1,0 +1,20 @@
+{
+    "palavras": [
+        {
+            "dica": "Animal",
+            "palavra": "Cachorro"
+        },
+        {
+            "dica": "Animal",
+            "palavra": "Gato"
+        },
+        {
+            "dica": "Cor",
+            "palavra": "Laranja"
+        },
+        {
+            "dica": "Cor",
+            "palavra": "Amarelo"
+        }
+    ]
+}
